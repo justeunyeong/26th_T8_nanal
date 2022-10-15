@@ -119,7 +119,7 @@ Xcode(ios simulator) 없이 IOS 개발이 가능하여, window 운영체제를 �
 android, ios 호환이 가능하여 유저의 사용성을 높여줄 수 있습니다. 
 
 5️⃣ **효율적인 크로스 플랫폼**       
-axios를 사용하 fetch와는 달리 response의 object를 json 메소드 없이도 바로 받을 수 있어 더 빠르고 효율적일 것입니다.
+axios는 fetch와는 달리 response의 object를 json 메소드 없이도 바로 받을 수 있어 더 빠르고 효율적일 것입니다.
 
 
 ### 🎉 Spring 선정 이유
